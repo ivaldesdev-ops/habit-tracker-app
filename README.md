@@ -10,3 +10,5 @@ Features:
 - Saves to localStorage
 
 Live demo: https://ivaldesdev-ops.github.io/habit-tracker-app/
+
+Live demo updated
