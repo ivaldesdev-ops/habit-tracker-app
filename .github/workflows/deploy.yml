@@ -12,6 +12,9 @@ permissions:
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: https://ivaldesdev-ops.github.io/habit-tracker-app/
     steps:
       - name: Checkout
         uses: actions/checkout@v4
